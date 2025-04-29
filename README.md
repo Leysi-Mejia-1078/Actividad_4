@@ -15,6 +15,7 @@
 
 * Tabla Productos
 
+![image](https://github.com/user-attachments/assets/bae5edba-840a-4e3b-babb-4134083a742b)
 
 ## Getting Started
 
