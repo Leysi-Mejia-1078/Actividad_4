@@ -6,9 +6,12 @@
 
 * Inicio de sesión
 
+![image](https://github.com/user-attachments/assets/e7f5a62a-1f66-4da8-b548-52fe5b13c089)
 
 * Registro
 
+![image](https://github.com/user-attachments/assets/f236521d-c90d-414c-a2fa-4abc8574107f)
+![image](https://github.com/user-attachments/assets/acacb3f3-4f84-47ba-a20c-4f7abb88658a)
 
 * Tabla Productos
 
